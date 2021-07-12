@@ -1,0 +1,2 @@
+superuser : username:admin pass:admin
+user : username:soham pass: N27052000
